@@ -4,6 +4,10 @@ Site demo pentru o tavernă grecească din Constanța: meniu cu coș de cumpăr�
 
 ![Pagina principală Akropolis](docs/screenshot.webp)
 
+## English summary
+
+Demo site for a fictional Greek taverna in Constanța, Romania: a menu with a cart, and the order is sent as a single pre-filled WhatsApp message, so the restaurant needs no other ordering system. Light and dark theme. Plain HTML, CSS and JavaScript in a single file. The site itself is in Romanian.
+
 ## Ce conține
 
 - **Meniu cu coș.** Adaugi preparate, alegi cantitatea și vezi totalul.
